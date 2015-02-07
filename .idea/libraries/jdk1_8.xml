@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="jdk1.8">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Roaming/.minecraft/libraries/org/lwjgl/lwjgl/lwjgl/2.9.1/lwjgl-2.9.1.jar!/" />
+      <root url="jar://$USER_HOME$/AppData/Roaming/.minecraft/libraries/org/lwjgl/lwjgl/lwjgl_util/2.9.1/lwjgl_util-2.9.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$USER_HOME$/AppData/Roaming/.minecraft/libraries/org/lwjgl/lwjgl/lwjgl-platform/2.9.1" />
+      <root url="file://$USER_HOME$/AppData/Roaming/.minecraft/libraries/org/lwjgl/lwjgl/lwjgl-platform/2.9.1" />
+      <root url="file://$USER_HOME$/AppData/Roaming/.minecraft/libraries/org/lwjgl/lwjgl/lwjgl-platform/2.9.1" />
+      <root url="file://$USER_HOME$/AppData/Roaming/.minecraft/libraries/org/lwjgl/lwjgl/lwjgl-platform/2.9.1" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://C:/Program Files/Java/jdk1.8.0_31" />
+    </SOURCES>
+    <jarDirectory url="file://C:/Program Files/Java/jdk1.8.0_31" recursive="false" type="SOURCES" />
+  </library>
+</component>
